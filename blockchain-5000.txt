@@ -1,0 +1,3 @@
+[{"index": 0, "previous_hash": "", "timestamp": 0, "transactions": [], "proof": 100}, {"index": 1, "previous_hash": "c775ae7455f086e2fc68520d31bfebfdb18ffeaceb933085c510d5f8d2177813", "timestamp": 1530830933.9836895, "transactions": [{"sender": "MINING", "recipient": "30819f300d06092a864886f70d010101050003818d0030818902818100a901455d5abf050adf3d2c84350d9263db4f6c9b7e5569a4f8f249d5aacd5d2ca3ecdb7aead89d5fcdc9cb74b6ea150700926f59eed14c9856f1f70773d380febcc04c2cf84ce1e53cbc351bd75511d98746cd49b123237f42fe70aa3a1dabefaa46efd52551e145f49a5bff778da7fa1af76e3f8a2919bc12b41deabf67c3f10203010001", "amount": 10, "signature": ""}], "proof": 92}]
+[]
+[]
